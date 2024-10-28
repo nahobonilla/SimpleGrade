@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d9e48661-67ff-4937-9307-ec2d28c8ac6b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/SimpleGrade.iml" afterDir="false" />
